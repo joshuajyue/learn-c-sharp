@@ -11,7 +11,7 @@ string required = "hello";
 string? optional = null;
 Console.WriteLine($"required = {required}");
 
-// optional.Length;        // <- compiler warning CS8602: dereference of possibly null
+// optional.Length;        // <- compiler warning CS8602: dereference of possibly null  
 
 // Null-conditional `?.` and `?[]`: short-circuit, return null if LHS is null.
 int? len = optional?.Length;
