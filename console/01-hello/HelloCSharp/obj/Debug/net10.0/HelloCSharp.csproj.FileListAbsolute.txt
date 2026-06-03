@@ -1,0 +1,14 @@
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\bin\Debug\net10.0\HelloCSharp.exe
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\bin\Debug\net10.0\HelloCSharp.deps.json
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\bin\Debug\net10.0\HelloCSharp.runtimeconfig.json
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\bin\Debug\net10.0\HelloCSharp.dll
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\bin\Debug\net10.0\HelloCSharp.pdb
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\HelloCSharp.AssemblyInfoInputs.cache
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\HelloCSharp.AssemblyInfo.cs
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\HelloCSharp.dll
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\refint\HelloCSharp.dll
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\HelloCSharp.pdb
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\HelloCSharp.genruntimeconfig.cache
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\ref\HelloCSharp.dll

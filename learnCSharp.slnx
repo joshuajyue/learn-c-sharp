@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/console/" />
+  <Folder Name="/console/01-hello/">
+    <Project Path="console/01-hello/HelloCSharp/HelloCSharp.csproj" />
+  </Folder>
+  <Folder Name="/console/02-value-vs-reference/">
+    <Project Path="console/02-value-vs-reference/ValueVsReference/ValueVsReference.csproj" />
+  </Folder>
+  <Folder Name="/console/03-nullable/">
+    <Project Path="console/03-nullable/NullableRefs/NullableRefs.csproj" />
+  </Folder>
+  <Folder Name="/console/04-properties-records/">
+    <Project Path="console/04-properties-records/PropsAndRecords/PropsAndRecords.csproj" />
+  </Folder>
+  <Folder Name="/console/05-patterns/">
+    <Project Path="console/05-patterns/PatternMatching/PatternMatching.csproj" />
+  </Folder>
+  <Folder Name="/console/06-linq/">
+    <Project Path="console/06-linq/LinqBasics/LinqBasics.csproj" />
+  </Folder>
+</Solution>

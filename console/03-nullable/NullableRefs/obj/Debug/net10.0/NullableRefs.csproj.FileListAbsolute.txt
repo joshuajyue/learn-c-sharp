@@ -1,0 +1,14 @@
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\bin\Debug\net10.0\NullableRefs.exe
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\bin\Debug\net10.0\NullableRefs.deps.json
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\bin\Debug\net10.0\NullableRefs.runtimeconfig.json
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\bin\Debug\net10.0\NullableRefs.dll
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\bin\Debug\net10.0\NullableRefs.pdb
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\obj\Debug\net10.0\NullableRefs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\obj\Debug\net10.0\NullableRefs.AssemblyInfoInputs.cache
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\obj\Debug\net10.0\NullableRefs.AssemblyInfo.cs
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\obj\Debug\net10.0\NullableRefs.csproj.CoreCompileInputs.cache
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\obj\Debug\net10.0\NullableRefs.dll
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\obj\Debug\net10.0\refint\NullableRefs.dll
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\obj\Debug\net10.0\NullableRefs.pdb
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\obj\Debug\net10.0\NullableRefs.genruntimeconfig.cache
+C:\Code\learnCSharp\console\03-nullable\NullableRefs\obj\Debug\net10.0\ref\NullableRefs.dll

@@ -1,0 +1,14 @@
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\bin\Debug\net10.0\PropsAndRecords.exe
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\bin\Debug\net10.0\PropsAndRecords.deps.json
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\bin\Debug\net10.0\PropsAndRecords.runtimeconfig.json
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\bin\Debug\net10.0\PropsAndRecords.dll
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\bin\Debug\net10.0\PropsAndRecords.pdb
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\obj\Debug\net10.0\PropsAndRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\obj\Debug\net10.0\PropsAndRecords.AssemblyInfoInputs.cache
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\obj\Debug\net10.0\PropsAndRecords.AssemblyInfo.cs
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\obj\Debug\net10.0\PropsAndRecords.csproj.CoreCompileInputs.cache
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\obj\Debug\net10.0\PropsAndRecords.dll
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\obj\Debug\net10.0\refint\PropsAndRecords.dll
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\obj\Debug\net10.0\PropsAndRecords.pdb
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\obj\Debug\net10.0\PropsAndRecords.genruntimeconfig.cache
+C:\Code\learnCSharp\console\04-properties-records\PropsAndRecords\obj\Debug\net10.0\ref\PropsAndRecords.dll
