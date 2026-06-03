@@ -12,3 +12,4 @@ C:\Code\learnCSharp\console\02-value-vs-reference\ValueVsReference\obj\Debug\net
 C:\Code\learnCSharp\console\02-value-vs-reference\ValueVsReference\obj\Debug\net10.0\ValueVsReference.pdb
 C:\Code\learnCSharp\console\02-value-vs-reference\ValueVsReference\obj\Debug\net10.0\ValueVsReference.genruntimeconfig.cache
 C:\Code\learnCSharp\console\02-value-vs-reference\ValueVsReference\obj\Debug\net10.0\ref\ValueVsReference.dll
+C:\Code\learnCSharp\console\02-value-vs-reference\ValueVsReference\obj\Debug\net10.0\ValueVsReference.sourcelink.json

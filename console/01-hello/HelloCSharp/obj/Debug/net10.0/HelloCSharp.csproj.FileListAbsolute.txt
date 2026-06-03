@@ -12,3 +12,4 @@ C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\refint\HelloC
 C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\HelloCSharp.pdb
 C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\HelloCSharp.genruntimeconfig.cache
 C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\ref\HelloCSharp.dll
+C:\Code\learnCSharp\console\01-hello\HelloCSharp\obj\Debug\net10.0\HelloCSharp.sourcelink.json

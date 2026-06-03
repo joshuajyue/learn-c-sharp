@@ -18,4 +18,7 @@
   <Folder Name="/console/06-linq/">
     <Project Path="console/06-linq/LinqBasics/LinqBasics.csproj" />
   </Folder>
+  <Folder Name="/console/07-delegates-events/">
+    <Project Path="console/07-delegates-events/DelegatesAndEvents/DelegatesAndEvents.csproj" />
+  </Folder>
 </Solution>

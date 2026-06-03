@@ -12,6 +12,10 @@
 //
 // Crucial: any TYPE you declare with `struct` is a value type, even if it has methods.
 
+// Question: Why would we want a struct with methods? 
+// Answer: To get value semantics (copy on assignment, no shared mutable state) for a small
+// value-like thing (e.g. a coordinate, money, id).
+
 PointStruct ps1 = new(1, 2);
 PointStruct ps2 = ps1;      // <-- COPY. Independent value.
 ps2.X = 99;
@@ -32,6 +36,10 @@ MutateRef(ref ps1);       Console.WriteLine($"after MutateRef:   ({ps1.X},{ps1.Y
 
 // `record struct` gives you value semantics PLUS structural equality & ToString —
 // great for small immutable value-like things (coordinates, money, ids).
+
+// Question: What is structural equality? 
+// Answer: Two instances of a record struct are considered equal if all their fields are equal
+
 var a = new Money(100, "USD");
 var b = new Money(100, "USD");
 Console.WriteLine($"record struct equals: {a == b}  ({a})");   // True
