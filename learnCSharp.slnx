@@ -21,4 +21,80 @@
   <Folder Name="/console/07-delegates-events/">
     <Project Path="console/07-delegates-events/DelegatesAndEvents/DelegatesAndEvents.csproj" />
   </Folder>
+  <Folder Name="/console/08-disposable/">
+    <Project Path="console/08-disposable/UsingDisposable/UsingDisposable.csproj" />
+  </Folder>
+  <Folder Name="/console/09-generics/">
+    <Project Path="console/09-generics/GenericsDeepDive/GenericsDeepDive.csproj" />
+  </Folder>
+  <Folder Name="/console/10-async/">
+    <Project Path="console/10-async/AsyncBasics/AsyncBasics.csproj" />
+  </Folder>
+  <Folder Name="/console/11-async-streams/">
+    <Project Path="console/11-async-streams/AsyncStreamsAndChannels/AsyncStreamsAndChannels.csproj" />
+  </Folder>
+  <Folder Name="/console/12-spans/">
+    <Project Path="console/12-spans/SpansAndMemory/SpansAndMemory.csproj" />
+  </Folder>
+  <Folder Name="/console/13-unsafe/">
+    <Project Path="console/13-unsafe/UnsafePointers/UnsafePointers.csproj" />
+  </Folder>
+  <Folder Name="/console/14-attributes-reflection/">
+    <Project Path="console/14-attributes-reflection/AttributesAndReflection/AttributesAndReflection.csproj" />
+  </Folder>
+  <Folder Name="/console/15-di-hosting/">
+    <Project Path="console/15-di-hosting/DependencyInjection/DependencyInjection.csproj" />
+  </Folder>
+  <Folder Name="/console/16-source-generators/">
+    <Project Path="console/16-source-generators/SourceGenerators/SourceGenerators.csproj" />
+  </Folder>
+  <Folder Name="/exercises/" />
+  <Folder Name="/exercises/01-hello/">
+    <Project Path="exercises/01-hello/HelloExercises/HelloExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/02-value-vs-reference/">
+    <Project Path="exercises/02-value-vs-reference/ValueRefExercises/ValueRefExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/03-nullable/">
+    <Project Path="exercises/03-nullable/NullableExercises/NullableExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/04-properties-records/">
+    <Project Path="exercises/04-properties-records/PropsRecordsExercises/PropsRecordsExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/05-patterns/">
+    <Project Path="exercises/05-patterns/PatternsExercises/PatternsExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/06-linq/">
+    <Project Path="exercises/06-linq/LinqExercises/LinqExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/07-delegates-events/">
+    <Project Path="exercises/07-delegates-events/DelegatesExercises/DelegatesExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/08-disposable/">
+    <Project Path="exercises/08-disposable/DisposableExercises/DisposableExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/09-generics/">
+    <Project Path="exercises/09-generics/GenericsExercises/GenericsExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/10-async/">
+    <Project Path="exercises/10-async/AsyncExercises/AsyncExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/11-async-streams/">
+    <Project Path="exercises/11-async-streams/AsyncStreamsExercises/AsyncStreamsExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/12-spans/">
+    <Project Path="exercises/12-spans/SpansExercises/SpansExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/13-unsafe/">
+    <Project Path="exercises/13-unsafe/UnsafeExercises/UnsafeExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/14-attributes-reflection/">
+    <Project Path="exercises/14-attributes-reflection/ReflectionExercises/ReflectionExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/15-di-hosting/">
+    <Project Path="exercises/15-di-hosting/DiExercises/DiExercises.csproj" />
+  </Folder>
+  <Folder Name="/exercises/16-source-generators/">
+    <Project Path="exercises/16-source-generators/SourceGenExercises/SourceGenExercises.csproj" />
+  </Folder>
 </Solution>

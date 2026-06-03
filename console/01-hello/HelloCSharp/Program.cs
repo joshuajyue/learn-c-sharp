@@ -15,7 +15,7 @@ Console.WriteLine("Hello, World!");
 // time. Still statically typed; this is NOT JavaScript `var`.
 var name = args.Length > 0 ? args[0] : "stranger";
 
-// Question: Where is args retrieved from?
+// J: Where is args retrieved from?
 // It's magically in scope as a string[] — same as Java's main parameter,
 // just not declared. C#'s top-level statements are wrapped in an implicit `Main` method
 
@@ -54,9 +54,12 @@ Console.WriteLine($"ulong:  {ulong.MinValue} to {ulong.MaxValue}");   // 0 to 18
 // Native-sized integers (like C's intptr_t — size depends on platform: 32-bit or 64-bit):
 Console.WriteLine($"nint:   {nint.MinValue} to {nint.MaxValue}");     // platform-dependent
 Console.WriteLine($"nuint:  {nuint.MinValue} to {nuint.MaxValue}");   // platform-dependent
+// Java does not have native-sized integers.
 
 // Other signed types (Java has these except sbyte):
 Console.WriteLine($"sbyte:  {sbyte.MinValue} to {sbyte.MaxValue}");   // -128 to 127
 Console.WriteLine($"short:  {short.MinValue} to {short.MaxValue}");   // -32,768 to 32,767
 Console.WriteLine($"long:   {long.MinValue} to {long.MaxValue}");     // -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
 
+// Summary of what I learned: As far as this lesson, Java and C# are pretty similar. This lesson was mostly just
+// about getting used to the syntax, program structure, and conventions of C#. 
