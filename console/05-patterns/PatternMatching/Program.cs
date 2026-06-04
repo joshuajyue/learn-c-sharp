@@ -4,7 +4,10 @@
 // richer flavour for years. The point: deconstruct + test + bind in one expression.
 
 object[] things = [42, "hello", 3.14, new Point(1, 2), new Point(0, 0), new Point(-1, -1), null!, new[] { 1, 2, 3 }];
-
+// J: What does null! mean?
+// C: The `!` is the null-forgiving operator.
+// It tells the compiler that we are intentionally assigning `null` to a variable that is not nullable, and that we will handle it safely.
+// C: If we didn't put the `!`, the compiler would give us a warning because `null` is not a valid value for a non-nullable reference type.
 foreach (var x in things)
 {
     Console.WriteLine($"{Describe(x),-40}  ({x ?? "<null>"})");

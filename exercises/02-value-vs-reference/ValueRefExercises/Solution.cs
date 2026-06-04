@@ -4,16 +4,21 @@ namespace ValueRefExercises;
 public static class Solution
 {
     // Swap two values in place. Caller will pass `ref` so changes are visible after.
-    public static void Swap<T>(ref T a, ref T b) => throw new NotImplementedException();
+    public static void Swap<T>(ref T a, ref T b)
+    {
+        T temp = a; a = b; b = temp;
+    }
 
     // Increment p.X by dx, p.Y by dy, mutating the caller's PointStruct in place.
     // (PointStruct is a value type -- you'll need `ref`.)
-    public static void Translate(ref PointStruct p, int dx, int dy) =>
-        throw new NotImplementedException();
-
+    public static void Translate(ref PointStruct p, int dx, int dy)
+    {
+        p.X += dx;
+        p.Y += dy;
+    }
     // Return a NEW PointStruct moved by (dx, dy) without mutating the input.
     public static PointStruct Moved(PointStruct p, int dx, int dy) =>
-        throw new NotImplementedException();
+        new PointStruct(p.X + dx, p.Y + dy);
 }
 
 // Don't modify the type definitions below — the tests rely on these shapes.
