@@ -40,6 +40,8 @@ MutateRef(ref ps1);       Console.WriteLine($"after MutateRef:   ({ps1.X},{ps1.Y
 // J: What is structural equality? 
 // C: Two instances of a record struct are considered equal if all their fields are equal
 
+// J: Do normal structs have structural equality?
+// C: No, normal structs do not have structural equality by default. They use the default value type equality, which is based on the memory layout of the struct.
 var a = new Money(100, "USD");
 var b = new Money(100, "USD");
 Console.WriteLine($"record struct equals: {a == b}  ({a})");   // True

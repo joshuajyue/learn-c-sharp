@@ -66,8 +66,11 @@ Console.WriteLine($"HasValue={maybeNumber.HasValue}  Value-or-default={maybeNumb
 static string? MaybeNull() => null;
 
 // Learning Summary
-// In C#, you can add a ? to a type to signify that it can be null. For instance, string cannot be null, but string? can. We can use the question mark 
-// in more places: in accessing fields of a potentially null class (string?.Length), in assigning variables (nullObj ??= Obj), as an operator (nullObj ?? "this is null"). However, since 
+// In C#, you can add a ? to a type to signify to the compiler that it may be null. We can use the question mark 
+// in more places: in accessing fields of a potentially null class (int? length = string?.Length), in assigning variables (nullObj ??= Obj), as an operator (nullObj ?? "this is null"). However, since 
 // variable of type type? are potentially null they need safeguards for access. You can do this with the question marks, or with a pattern match (nullObj is { } obj)
 // Additionally, we can use the ! for a value to claim that the value is not null. However, this will result in a NullReferenceException, since the compiler won't be able to catch
 // the null.
+
+// The ? is solely for the compiler, however. At runtime, there is no difference between string and string?. 
+// Also trivia: if there are ever any nulls in a comparison, it will always be false. 
