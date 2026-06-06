@@ -97,4 +97,84 @@
   <Folder Name="/exercises/16-source-generators/">
     <Project Path="exercises/16-source-generators/SourceGenExercises/SourceGenExercises.csproj" />
   </Folder>
+  <Folder Name="/aspnet/" />
+  <Folder Name="/aspnet/01-hello-minimal/">
+    <Project Path="aspnet/01-hello-minimal/HelloMinimal/HelloMinimal.csproj" />
+  </Folder>
+  <Folder Name="/aspnet/02-routing/">
+    <Project Path="aspnet/02-routing/Routing/Routing.csproj" />
+  </Folder>
+  <Folder Name="/aspnet/03-json/">
+    <Project Path="aspnet/03-json/JsonDtos/JsonDtos.csproj" />
+  </Folder>
+  <Folder Name="/aspnet/04-di/">
+    <Project Path="aspnet/04-di/DiBasics/DiBasics.csproj" />
+  </Folder>
+  <Folder Name="/aspnet/05-configuration/">
+    <Project Path="aspnet/05-configuration/ConfigOptions/ConfigOptions.csproj" />
+  </Folder>
+  <Folder Name="/aspnet/06-middleware/">
+    <Project Path="aspnet/06-middleware/MiddlewarePipeline/MiddlewarePipeline.csproj" />
+  </Folder>
+  <Folder Name="/aspnet/07-error-handling/">
+    <Project Path="aspnet/07-error-handling/ErrorHandling/ErrorHandling.csproj" />
+  </Folder>
+  <Folder Name="/aspnet/08-logging/">
+    <Project Path="aspnet/08-logging/Logging/Logging.csproj" />
+  </Folder>
+  <Folder Name="/aspnet/09-controllers/">
+    <Project Path="aspnet/09-controllers/ControllersDemo/ControllersDemo.csproj" />
+  </Folder>
+  <Folder Name="/aspnet/10-integration-tests/">
+    <Project Path="aspnet/10-integration-tests/ControllerTests/ControllerTests.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/" />
+  <Folder Name="/extensions-ai/01-hello-chat-client/">
+    <Project Path="extensions-ai/01-hello-chat-client/HelloChatClient/HelloChatClient.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/02-streaming/">
+    <Project Path="extensions-ai/02-streaming/StreamingChat/StreamingChat.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/03-conversation-history/">
+    <Project Path="extensions-ai/03-conversation-history/Conversation/Conversation.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/04-chat-options/">
+    <Project Path="extensions-ai/04-chat-options/ChatOptionsLesson/ChatOptionsLesson.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/05-prompt-engineering/">
+    <Project Path="extensions-ai/05-prompt-engineering/PromptEngineering/PromptEngineering.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/06-structured-output/">
+    <Project Path="extensions-ai/06-structured-output/StructuredOutput/StructuredOutput.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/07-tools-function-calling/">
+    <Project Path="extensions-ai/07-tools-function-calling/FunctionCalling/FunctionCalling.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/08-middleware-pipeline/">
+    <Project Path="extensions-ai/08-middleware-pipeline/ChatMiddleware/ChatMiddleware.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/09-di-and-providers/">
+    <Project Path="extensions-ai/09-di-and-providers/DiAndProviders/DiAndProviders.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/10-embeddings/">
+    <Project Path="extensions-ai/10-embeddings/EmbeddingsBasics/EmbeddingsBasics.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/11-vector-search/">
+    <Project Path="extensions-ai/11-vector-search/VectorSearch/VectorSearch.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/12-rag-ingestion/">
+    <Project Path="extensions-ai/12-rag-ingestion/RagIngestion/RagIngestion.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/13-rag-retrieval/">
+    <Project Path="extensions-ai/13-rag-retrieval/RagRetrieval/RagRetrieval.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/14-evaluation/">
+    <Project Path="extensions-ai/14-evaluation/Evaluation/Evaluation.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/15-vision-and-caching/">
+    <Project Path="extensions-ai/15-vision-and-caching/VisionAndCaching/VisionAndCaching.csproj" />
+  </Folder>
+  <Folder Name="/extensions-ai/16-speech-and-realtime/">
+    <Project Path="extensions-ai/16-speech-and-realtime/SpeechAndRealtime/SpeechAndRealtime.csproj" />
+  </Folder>
 </Solution>

@@ -6,6 +6,28 @@ The author already knows Java (data structures, OOP, polymorphism, references) a
 or C where it clarifies a concept, and skip basics that transfer directly (e.g. `if`/`for`
 syntax, classes, inheritance fundamentals).
 
+### Web development background
+
+**The author has minimal web development experience in ANY language.** That means
+for the `aspnet/` track (and anything else involving HTTP, REST, browsers, or
+servers):
+
+- Do **NOT** lean on Java/Spring analogies (`@RestController`, `@Autowired`,
+  servlet filters, etc.). They will not land. Likewise skip Express.js,
+  Django, Rails, or any other web-framework comparison.
+- **Explain web concepts from first principles** the first time they appear.
+  This includes: what HTTP is, request/response cycle, status codes, headers,
+  URL structure, REST verbs (GET/POST/PUT/PATCH/DELETE), JSON over HTTP,
+  what an "endpoint" is, what a "middleware pipeline" is, what
+  "model binding" / "serialization" mean in a web context, what a
+  "controller" is.
+- C# language framing (records, async, DI from console lesson 15, etc.) IS
+  still fair game — only the *web-platform* concepts need first-principles
+  treatment.
+- When introducing a new web concept, briefly sketch the underlying HTTP
+  mechanics (e.g. "POST sends a body in the request; the server's job is to
+  parse it") before showing the ASP.NET Core API for it.
+
 ## Repository purpose & scope
 
 Planned learning tracks (each lives in its own subfolder/solution as it is added):

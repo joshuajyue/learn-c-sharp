@@ -25,6 +25,7 @@ await DemoExceptionsAsync();
 // --- 1. Sequential awaits ---
 // Each await yields the thread back to the caller until the awaited operation
 // completes. NOT a new thread per call — usually all on the same thread.
+
 static async Task DemoSequentialAsync()
 {
     Console.WriteLine("[seq] start");
@@ -32,6 +33,13 @@ static async Task DemoSequentialAsync()
     var b = await ReadAsync("B", 50);
     Console.WriteLine($"[seq] got {a} then {b}");
 }
+// Async is not multithreading:
+// The purpose of async: up until a task is blocked, it runs synchronously on the caller's thread
+// But, when we hit await of an incomplete task (keyword incomplete: specifically like Task.Delay)
+// the method yields control back to the caller.
+// When we have async methods, the whole Main becomes async
+// SO in this case, ReadAsync is incomplete, which cascades a suspension up. This also suspends Main
+
 
 // --- 2. Parallel awaits via Task.WhenAll ---
 // Kick off both tasks WITHOUT awaiting, then await the combined task. They run
